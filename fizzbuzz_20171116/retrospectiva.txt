@@ -1,0 +1,31 @@
+:(
+- o cabo enchendo o saco
+- não consegui trazer cerveja
+- dojotimer bugou e não mostrou as mensagens de erro
+- faltou perguntar mais
+- faltou a portaria funcionar melhor
+- posição do computador
+- o Editor de Texto
+- ter mais tempo pra divulgar
+- evento foi pouco diverso
+- piloto e copiloto atrapalhavam a tela com a cabeça
+- conversa paralela
+- usar lista do proximo problema
+- solução "overengineered"
+- eu não esperava ter feito fizzbuzz
+
+:)
+- meu primeiro dojo em CWB
+- teve comida graças ao Marcelo
+- maior dojo q eu já participei
+- solução bem explorada
+- usamos o fizzbuzz pra ensinar mais coisas
+- nível de conhecimento
+- motivação que gera
+
+Sugestões:
+- usar VSCode
+- usar teclado e mouse
+- não limitar a linguagem a Python mesmo o evento sendo do Grupy
+
+Compromisso: próximo dojo na Olist no dia 30 de novembro
