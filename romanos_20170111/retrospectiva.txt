@@ -1,0 +1,25 @@
+:)
+- gente nova
+- recepção
+- participação feminina
+- behave
+- bastante comida (da ultima vez faltou)
+- live no twitch (obrigado gente)
+- resolvemos o problema
+- sem medo de apagar
+- aprendemos com os testes
+
+:(
+- resolvemos o problema
+- pulou passos do baby steps
+- teve 16 confirmados mas não vieram todos
+- não sabemos se a live foi de qualidade
+- não vimos as dicas ao vivo
+- a live foi em um twitch pessoal
+- a Dani veio e não programou
+- não demos push da outra vez, ficamos sem nada pra fazer
+- continuamos dependendo da máquina de uma pessoa
+
+
+Obs:
+- faltou input validation
