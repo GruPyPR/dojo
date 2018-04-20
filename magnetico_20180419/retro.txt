@@ -1,0 +1,49 @@
+:(
+- não ver o problema no começo, por falta de internet
+- faltou uma pessoa para explicar o problema
+- deixar o problema mais claro
+- timer engolindo a saída +
+- python não
+- senti falta de outras meninas
+- problemas matemáticos geram disparidade
+- dojo ficou disperso
+- faltou falar que não entendeu
+- não nos apresentamos +
+- pessoas fumando +
+- complexidade
+- arvoro do falefl não estava durante os pontos negativos
+- roubo nos testes
+- galera falando mal de python
+- respeite o processo de retrospectiva
+
+:)
+- pessoal gente boa +++
+- gostei do problema
+- me senti à vontade +
+- abordagem diferente (classes)
+- editor com modo vim/vi
+- quem estava conseguiu transmitir as ideias
+- receptividade
+- ajuda dos "experientes"
+- python sim
+- sintaxe nova do python3
+- ambiente despojado +
+- Carol ceder o lugar
+- Maria ceder a televisão
+- problema legal +
+- seguimos TDD e baby-steps
+- editor sublime    
+- aprendendo a diferença entre mau e mal
+- clima de Curitiba hoje tava demais
+- Xôdade do dojo
+- gente que vem de outras linguagens
+- pipoca
+- vou ficar muit@ doid@ hoje
+- participação de mulheres
+- teve cerveja
+
+Sugestões e coisas que aparecem aí:
+- investir num quadro branco
+- outras linguagens
+- etiqueta/crachá
+- divulgação fora do grupy +
